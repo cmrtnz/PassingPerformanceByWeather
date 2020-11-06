@@ -1,0 +1,16 @@
+While this data analysis doesn't take into account many underlying factors, several takeaways can be made from the resulting graph
+comparing passing performances throughout the NFL season between indoor stadiums and outdoor stadiums with poor weather. First of all,
+indoor stadiums obviously overall reflect better performance, which can be easily assumed and accepted.
+
+Possibly more interesting is how both indoor and bad weather stadiums declined as the year went on. While I cannot assume the main
+cause of the decline, there may be factors other than weather such as defensive players improving as more film comes out to study,
+or if offensive players deal with more injuries. Whatever the reason is, the decline cannot be attributed all to weather.
+
+While both performances dipped throughout the year, indoor stadiums experienced a much smoother decline compared to the unpredictable behavior
+of bad weather stadiums. Notice how week 6 to 7 drops by about 0.3 standardized units with no apparent explanation. To be frank, there
+may be no real solution. At the beginning of this analysis, I predicted that bad weather stadiums would be impacted negatively late
+in the year due to the cold weather. However, what I have come to realize after visualizing the data is that the weather doesn't
+necessarily reduce performance later in the year. Instead, it seems to make predicting every week to week performance a challenge,
+shown by the relatively smooth indoor stadium data compared to the jagged lines of the bad weather stadiums, which seems difficult
+to achieve with such a large data set of 16 years of NFL games. Ultimately, weather that can change from day to day will create
+an inherent unpredictability around the passing performance in the NFL from week to week, no matter where in the schedule they are.
